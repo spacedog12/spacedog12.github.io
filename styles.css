@@ -123,3 +123,9 @@ p {
   vertical-align: middle;
   border-radius: 50%;
 }
+
+liveStream {
+  margin: auto;
+  weight: 1280;
+  height: 720;
+}
