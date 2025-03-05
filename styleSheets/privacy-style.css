@@ -1,0 +1,24 @@
+
+.hero {
+    margin-bottom: 2rem;
+}
+
+/* Privacy Content */
+.privacy-content h2 {
+    margin-top: 2rem; /* Add space above h2 */
+    margin-bottom: 1rem; /* Add space below h2 */
+  }
+  
+  .privacy-content h3 {
+    margin-top: 1.5rem; /* Add space above h3 */
+    margin-bottom: 0.75rem; /* Add space below h3 */
+  }
+  
+  .privacy-content p,
+  .privacy-content ul {
+    margin-bottom: 1rem;
+  }
+  
+  .privacy-content li {
+    margin-bottom: 0.5rem; /* Add space below each list item */
+  }
